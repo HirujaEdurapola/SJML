@@ -129,7 +129,17 @@ gradient{
     height: 100vh;
 }
 
-
+glitch{
+  
+    margin: 0.5em 0;
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 6em;
+    color: #22313F ;
+    /* text-align: center; */
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    text-shadow: -0.09em 0 0 #F22613,  0.09em 0 0 #00FFFF;
+}
 
 @keyframes typing {
     from {
