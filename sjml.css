@@ -39,3 +39,12 @@ hello {
   display: flex;
   justify-content: center;
   align-items: center;
+blur{
+  width: 500px;
+  height: 600px;
+  background-color: white;
+  background-color: rgba(255, 255, 255, 0.358);
+  display: block;
+  border-radius: 50px;
+  background-blend-mode: lighten;
+}
