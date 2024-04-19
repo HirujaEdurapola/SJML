@@ -146,6 +146,10 @@ reflectBottom{
   /* -webkit-text-size-adjust: 60%; */
 }
 
+space{
+  margin-left: 1vh;
+}
+
 @keyframes typing {
     from {
       width: 0
