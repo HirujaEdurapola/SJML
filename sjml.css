@@ -48,3 +48,9 @@ blur{
   border-radius: 50px;
   background-blend-mode: lighten;
 }
+.wrapper {
+    /* height: 100vh; */
+    /*This part is important for centering*/
+    display: grid;
+    /* place-items: center; */
+}
