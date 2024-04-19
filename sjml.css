@@ -150,6 +150,26 @@ space{
   margin-left: 1vh;
 }
 
+glow{
+  
+    letter-spacing: 6px;
+    font-size: 75px;
+    text-shadow: -1px -1px 1px white, 
+                 -1px 1px 1px white, 
+                  1px -1px 1px white, 
+                  1px 1px 1px white,
+                  0 0 5px white, 
+                  0 0 15px white, 
+                  0 0 25px white,
+                  0 0 40px #FF9E9E, 
+                  0 0 50px #FF9E9E, 
+                  0 0 60px #FF9E9E, 
+                  0 0 80px #FF9E9E,
+                  0 0 110px #FF9E9E, 
+                  0 0 210px #FF9E9E;
+    color: white;
+}
+
 @keyframes typing {
     from {
       width: 0
