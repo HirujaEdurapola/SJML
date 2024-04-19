@@ -8,4 +8,4 @@ Developed by Hiruja Edurapola, SJML empowers developers to unleash their creativ
 
 Discover the magic of SJML and transform your web projects with ease.
 
-[![image](button_read-documentation.png)](https://hirujaedurapola.github.io/SJML/docs/2.0/) 
+[![image](../docs.png)](https://hirujaedurapola.github.io/SJML/docs/2.0/) 
