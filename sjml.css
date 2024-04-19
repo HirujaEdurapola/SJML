@@ -131,3 +131,10 @@ logo, sjml, sj{
       border-color: transparent
     }
   }
+gradient{
+  background: radial-gradient(100% 288.36% at 0% 100%, rgba(19, 243, 149, 0.7) 0%, rgba(203, 255, 205, 0) 100%), radial-gradient(100% 288.36% at 0% 0%, rgba(36, 20, 224, 0.5) 0%, rgba(42, 31, 175, 0) 100%, rgba(214, 223, 255, 0) 100%), radial-gradient(100% 160.84% at 100% 0%, #FF2C54 0%, rgba(255, 243, 243, 0) 100%), radial-gradient(100.42% 289.56% at 100% 99.29%, rgba(255, 230, 0, 0.7) 0%, rgba(255, 219, 0, 0) 100%), #0057FF;
+
+  background-size: 200% 200%;
+		animation: Gradient 15s ease infinite;
+    height: 100vh;
+}
