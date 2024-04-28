@@ -13,3 +13,7 @@ Use the following code to add warning signs to you web pages.
 
 ### Preview
 ![Warning Preview](wl.png)
+
+<br>
+
+[![Next](next.png)](end.md) [![Previous](prev.png)](text_effects.md)

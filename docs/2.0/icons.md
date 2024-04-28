@@ -96,3 +96,7 @@ fb{
 
 > [!WARNING]
 > When resizing use both `height` and `width` properties and make sure they are the same
+
+<br>
+
+[![Next](next.png)](animations.md) [![Previous](prev.png)](docs.md)

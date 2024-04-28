@@ -9,3 +9,7 @@ More features coming soon!
 
 
 -Hiruja Edurapola 21/04/2024
+
+<br>
+
+[![Previous](prev.png)](other.md)

@@ -74,3 +74,7 @@ Use the following code to give your webpage an amazing animated background gradi
 
 ### Preview
 ![Gradient Animation Preview](gr.png)
+
+<br>
+
+[![Next](next.png)](text_effects.md) [![Previous](prev.png)](icons.md)

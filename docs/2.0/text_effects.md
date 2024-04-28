@@ -38,3 +38,7 @@ Use the following line of code to add the reflected effect to your text.
 ```
 > [!CAUTION]
 > This feature is in the development mode. Use at your own risk!<br>Browser Support is limited
+
+<br>
+
+[![Next](next.png)](other.md) [![Previous](prev.png)](animations.md)
