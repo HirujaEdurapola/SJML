@@ -2,7 +2,7 @@
 
 Due to the development state of the stylesheet, only few animations are available.
 
-# Text Animation
+# Text Animations
 
 Text animations apart from the text effects mentioned in the [previous](text_effects.md) page are mentioned below.
 
@@ -64,7 +64,7 @@ Include the code above in another css file assigned below the SJML css file.
 > Make sure to change the `width` to the number of characters in your text INCLUDING white spaces.
 
 
-# Background animations
+# Background Animations
 
 More to come! 
 
