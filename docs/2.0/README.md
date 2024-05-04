@@ -24,5 +24,5 @@ Just add the following line of code.
 
 <br>
 
-[![Next](next.png)](icons.md)
+[![Next](next.png)](icons/)
 
